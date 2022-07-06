@@ -1,2 +1,1 @@
-Hello I've pushed this file.
-Plz change it or fork it.
+This file is made for testing.
